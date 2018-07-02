@@ -1,0 +1,46 @@
+body {
+    background-color: #EFECCA;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: black;
+}
+
+h1 {
+    color: #C03000;
+}
+
+h2 {
+    color: #4BB5C1;
+}
+
+nav li {
+    display: inline;
+}
+
+nav li a {
+    background-color: #C03000;
+    border: 2px solid #660000;
+    text-align: center;
+    padding: 7px;
+    color: #EFECCA;
+    font-weight: normal;
+}
+
+nav ul li a:hover, nav ul li a:focus {
+    background-color: #009900;
+    text-decoration: underline;
+}
+
+a {
+    color: #0000FF;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
